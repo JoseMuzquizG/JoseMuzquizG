@@ -6,5 +6,4 @@
 Pretty new to coding and developing environments.<br>
 Still learning new techincs and methods.
 </div>
-
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fm7r4cyd2qb551.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D17e1d80934db0df57caef12efb0d2cc2e247d834"/> 
+<img src="https://media3.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=6c09b95246pk43iubdlksrtomc18e2ames8627ele9clz8mb&ep=v1_gifs_search&rid=giphy.gif" width="50%"/> 
